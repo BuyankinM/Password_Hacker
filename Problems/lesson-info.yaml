@@ -22,3 +22,6 @@ content:
 - JSON input
 - Number of users
 - To_bytes()
+- Zeros and Ones
+- Evenly spaced values
+- Slicing
